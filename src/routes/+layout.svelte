@@ -62,11 +62,16 @@
 	</div>
 </div>
 
+<div class="my-10 flex items-center justify-center">
+	{@html `<div id="sfc7dhws6ngxddl5mxgku61a6phrt45dda9"></div><script type="text/javascript" src="https://counter5.optistats.ovh/private/counter.js?c=7dhws6ngxddl5mxgku61a6phrt45dda9&down=async" async></script>`}
+</div>
+
 <footer class="footer sm:footer-horizontal footer-center bg-base-200 text-base-content p-4">
   <aside>
     <p>&copy; Copyright {new Date().getFullYear()} - Made with love for all fellow learners!</p>
   </aside>
 </footer>
+
 
 <style lang="postcss">
 	@reference 'tailwindcss';
