@@ -99,4 +99,14 @@
     background-repeat: no-repeat;
     background-size: contain;
   }
+  .keepspin::after {
+    content: "";
+    top: 0px;
+    left: 0px;
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    z-index: -2;
+    background-color: #162034;
+  }
 </style>
