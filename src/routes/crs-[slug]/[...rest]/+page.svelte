@@ -1,7 +1,7 @@
 <script lang="ts">
   //@ts-nocheck
 	import { goto } from '$app/navigation';
-	import { ChevronDown } from 'lucide-svelte';
+	import { ChevronDown, PinIcon, PinOffIcon } from 'lucide-svelte';
 	import { onMount } from 'svelte';
 	import { slide } from 'svelte/transition';
 
@@ -11,6 +11,12 @@
     ytIDRegex: x=>(x.match(/(?:youtu\.be\/|youtube\.com\/(?:watch\?(?:.*&)?v=|embed\/|v\/))([a-zA-Z0-9_-]{11})/)||[])[1],
     gdIDRegex: x=>(x.match(/(?:https?:\/\/)?(?:drive|docs)\.google(?:usercontent)?\.com\/.*?(?:\/d\/|[?&]id=)([a-zA-Z0-9_-]{10,})/i)||[])[1],
   };
+  function setCookie(cname, cvalue, exdays) {
+    const d = new Date();
+    d.setTime(d.getTime() + (exdays*24*60*60*1000));
+    let expires = "expires="+ d.toUTCString();
+    document.cookie = cname + "=" + cvalue + ";" + expires + ";path=/";
+  }
   onMount(()=>{
     window.data = data;
   })
@@ -20,11 +26,16 @@
   <title>{data.info.title} - BA Cracked</title>
 </svelte:head>
 
-<h2 class="text-xl sm:text-2xl md:text-3xl lg:text-4xl font-semibold mb-5">{data.info.title}</h2>
+<div class="flex items-center mb-5 gap-3 md:gap-5">
+  <h2 class="text-xl sm:text-2xl md:text-3xl lg:text-4xl font-semibold">{data.info.title}</h2>
+  <button class="btn btn-sm {data.pin ? 'btn-info' : 'btn-ghost'} btn-soft h-auto p-2" on:click={()=>{setCookie('pin', String(!data.pin), 30);data.pin = !data.pin}}>
+    <PinIcon size="20"/>
+  </button>
+</div>
 
 <div class="flex flex-col lg:flex-row gap-5">
-  <div class="w-full sticky top-20 z-30">
-    <div class="sticky top-20 z-30 w-full h-0 pb-[56.25%] rounded-lg overflow-hidden flex-1">
+  <div class="w-full {data.pin ? 'sticky top-20 z-30' : 'relative'}">
+    <div class="{data.pin ? 'sticky top-20 z-30' : 'relative'} w-full h-0 pb-[56.25%] rounded-lg overflow-hidden flex-1">
       <div class="absolute w-full h-full inset-0 keepspin">
         {#if data.cur_content.type == 'exam'}
           <div class="w-full h-full bg-[#162034] p-5 md:p-10 font-bold flex items-center justify-center">

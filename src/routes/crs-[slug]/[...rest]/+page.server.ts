@@ -3,7 +3,7 @@ import courses from "$lib/courses";
 import { error, redirect } from "@sveltejs/kit";
 import type { PageServerLoad } from "./$types";
 
-export const load: PageServerLoad = async ({ params }) => {
+export const load: PageServerLoad = async ({ params, cookies }) => {
     let { slug, rest } = params;
     let [sec_slug, con_slug] = rest.split('/');
     let cur_content;
@@ -22,6 +22,7 @@ export const load: PageServerLoad = async ({ params }) => {
     }
     return {
         slug, sec_slug, con_slug, cur_content,
+        pin: cookies.get('pin') != 'false',
         info: (()=>{
             let crs = courses.find(i=>i.slug == slug);
             return {
