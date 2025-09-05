@@ -5,6 +5,9 @@ on:
     - cron: '0 */3 * * *'  # Every 3 hours
   workflow_dispatch:  # Manual trigger
 
+permissions:
+  contents: write
+
 jobs:
   update-data:
     runs-on: ubuntu-latest
