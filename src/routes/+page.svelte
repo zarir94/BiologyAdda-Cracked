@@ -32,10 +32,10 @@
     {#if c.category.slug.indexOf(batch) != -1}
     <div class="card bg-base-300 shadow-md" transition:fade>
       <figure class="px-5 pt-5">
-        <img
-          src="{c.img}"
-          alt="{c.title}"
-          class="rounded-md" />
+        <div class="w-full h-0 pb-[56.25%] relative">
+          <div class="absolute w-full h-full inset-0 rounded-md skeleton bg-[#162034]"></div>
+          <img src="{c.img}" alt="{c.title}" class="rounded-md absolute inset-0 w-full h-full text-transparent" />
+        </div>
       </figure>
       <div class="card-body items-center text-center">
         <h2 class="card-title">{c.title}</h2>
