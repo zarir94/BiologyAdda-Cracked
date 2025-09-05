@@ -2,7 +2,7 @@ import { redirect, type Handle } from '@sveltejs/kit';
 
 export const handle: Handle = async ({ event, resolve }) => {
 	let host = event.request.headers.get('Host');
-	console.log(host);
+	// console.log(host);
 	
 	if (host == 'bacracked.onrender.com') {
 		redirect(301, new URL(event.url.pathname, 'http://bacracked.top'))
