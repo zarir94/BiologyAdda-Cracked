@@ -1,7 +1,7 @@
 <script lang="ts">
   //@ts-nocheck
 	import { goto } from '$app/navigation';
-	import { ChevronDown, PinIcon, PinOffIcon } from 'lucide-svelte';
+	import { ChevronDown, InfoIcon, PinIcon, PinOffIcon } from 'lucide-svelte';
 	import { onMount } from 'svelte';
 	import { slide } from 'svelte/transition';
 
@@ -25,6 +25,16 @@
 <svelte:head>
   <title>{data.info.title} - BA Cracked</title>
 </svelte:head>
+
+<div role="alert" class="alert alert-info alert-soft mb-5">
+  <InfoIcon/>
+  <span class="md:text-lg">বিভ্রান্ত হবেন না! এগুলো Biology Adda চ্যানেলের সাধারণ ফ্রি YouTube ভিডিও নয়।
+  এগুলো তাদের ওয়েবসাইটের <b>পেইড Biology Adda কোর্স</b> থেকে সংগ্রহ করা ভিডিও।
+
+  তারা তাদের পেইড কোর্সের ভিডিও YouTube-এ আপলোড করে <b>Unlisted</b> করে রেখেছেন, যাতে সেগুলো সার্চ করে বা চ্যানেল ব্রাউজ করে খুঁজে পাওয়া না যায়। কেবলমাত্র ভিডিওর <b>ডাইরেক্ট লিংকের মাধ্যমে</b> এগুলো অ্যাক্সেস করা সম্ভব।
+
+  আপনি এখানে যা দেখছেন, সেটিই মূলত তাদের পেইড কোর্সের সমতুল্য। উপভোগ করুন।</span>
+</div>
 
 <div class="flex items-center mb-5 gap-3 md:gap-5">
   <h2 class="text-xl sm:text-2xl md:text-3xl lg:text-4xl font-semibold">{data.info.title}</h2>
