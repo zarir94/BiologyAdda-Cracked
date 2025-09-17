@@ -646,6 +646,51 @@
         }
     },
     {
+        "title": "Demo Course",
+        "slug": "demo-course",
+        "img": "https://biology-adda.sgp1.digitaloceanspaces.com/courses/f0q1NmuEexLjOiJWPkkCJthtI9jerc1E.png",
+        "sections": [
+            {
+                "title": "test video",
+                "slug": "test-video",
+                "contents": [
+                    {
+                        "title": "test",
+                        "slug": "test",
+                        "type": "video",
+                        "source": "embedded",
+                        "link": null
+                    },
+                    {
+                        "title": "testembeded",
+                        "slug": "testembeded",
+                        "type": "video",
+                        "source": "embedded",
+                        "link": null
+                    },
+                    {
+                        "title": "sf",
+                        "slug": "sf",
+                        "type": "video",
+                        "source": "youtube",
+                        "link": "https://youtu.be/3HJL-gHuCVc?si=tCsXa-nllzP7zS5P"
+                    },
+                    {
+                        "title": "tenbyte",
+                        "slug": "tenbyte",
+                        "type": "video",
+                        "source": "tenbyte",
+                        "link": "https://player.vidinfra.com/stream/3f9eba17-410f-4cf7-8149-e5bfda107e4e/default/b7e45e39-22c1-45bf-9df9-78702f724a2e"
+                    }
+                ]
+            }
+        ],
+        "category": {
+            "title": "HSC 2027",
+            "slug": "hsc-2027"
+        }
+    },
+    {
         "title": "HSC 2026 Botany+Zoology Full Course",
         "slug": "hsc-2026-botanyzoology-full-course",
         "img": "https://biology-adda.sgp1.digitaloceanspaces.com/courses/nnvglfjrDYhuyUcG1Evm1dgPPuOroIdp.jpg",
@@ -2788,16 +2833,6 @@
                 "contents": []
             }
         ],
-        "category": {
-            "title": "HSC 2026",
-            "slug": "hsc-2026"
-        }
-    },
-    {
-        "title": "free-course for developer",
-        "slug": "free-course-for-developer",
-        "img": "https://biology-adda.sgp1.digitaloceanspaces.com/courses/t70tstiMaGeDLOjJPt2tBffWkuyHOOL5.png",
-        "sections": [],
         "category": {
             "title": "HSC 2026",
             "slug": "hsc-2026"
