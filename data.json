@@ -292,15 +292,15 @@
                         "title": "\u09b2\u09c7\u0995\u099a\u09be\u09b0-\u09eb: \u09b8\u09c3\u099c\u09a8\u09b6\u09c0\u09b2\u09c7\u09b0 HOT Class - \u09ae\u09be\u09af\u09bc\u09cb\u09b8\u09bf\u09b8 \u0995\u09cb\u09b7 \u09ac\u09bf\u09ad\u09be\u099c\u09a8 -  Prophase-1 \u098f\u09b0 \u09b8\u09ac\u0995\u09bf\u099b\u09c1!",
                         "slug": "lekcar-5-srrijnsheeler-hot-class-mazosis-kosh-bivajn-prophase-1-er-sbkichu",
                         "type": "video",
-                        "source": "embedded",
-                        "link": "https://youtu.be/b4qCEK5edBM?si=eev2AGMW1koVJ7NI"
+                        "source": "tenbyte",
+                        "link": "https://player.vidinfra.com/stream/3f9eba17-410f-4cf7-8149-e5bfda107e4e/default/4d69807d-790d-4c57-92e9-d83a177eaa7f"
                     },
                     {
                         "title": "\u09b2\u09c7\u0995\u099a\u09be\u09b0-\u09ec: \u09ae\u09be\u09af\u09bc\u09cb\u09b8\u09bf\u09b8 \u0995\u09cb\u09b7 \u09ac\u09bf\u09ad\u09be\u099c\u09a8\u09c7\u09b0 Happy Ending & \u0995\u09cd\u09b0\u09b8\u09bf\u0982 \u0993\u09ad\u09be\u09b0!",
                         "slug": "lekcar-6-mazosis-kosh-bivajner-happy-ending-krsing-oovar",
                         "type": "video",
-                        "source": "embedded",
-                        "link": null
+                        "source": "tenbyte",
+                        "link": "https://player.vidinfra.com/stream/3f9eba17-410f-4cf7-8149-e5bfda107e4e/default/b7e45e39-22c1-45bf-9df9-78702f724a2e"
                     }
                 ]
             },
@@ -636,51 +636,6 @@
                         "slug": "onujeeb-puro-czaptarer-dagano-bizer-pdf-1",
                         "type": "link",
                         "link": "https://drive.google.com/file/d/1QkRGYhBOHdvY7Q0xMj5CYYkeWF6377mt/view?usp=drivesdk"
-                    }
-                ]
-            }
-        ],
-        "category": {
-            "title": "HSC 2027",
-            "slug": "hsc-2027"
-        }
-    },
-    {
-        "title": "Demo Course",
-        "slug": "demo-course",
-        "img": "https://biology-adda.sgp1.digitaloceanspaces.com/courses/f0q1NmuEexLjOiJWPkkCJthtI9jerc1E.png",
-        "sections": [
-            {
-                "title": "test video",
-                "slug": "test-video",
-                "contents": [
-                    {
-                        "title": "test",
-                        "slug": "test",
-                        "type": "video",
-                        "source": "embedded",
-                        "link": null
-                    },
-                    {
-                        "title": "testembeded",
-                        "slug": "testembeded",
-                        "type": "video",
-                        "source": "embedded",
-                        "link": null
-                    },
-                    {
-                        "title": "sf",
-                        "slug": "sf",
-                        "type": "video",
-                        "source": "youtube",
-                        "link": "https://youtu.be/3HJL-gHuCVc?si=tCsXa-nllzP7zS5P"
-                    },
-                    {
-                        "title": "tenbyte",
-                        "slug": "tenbyte",
-                        "type": "video",
-                        "source": "tenbyte",
-                        "link": "https://player.vidinfra.com/stream/3f9eba17-410f-4cf7-8149-e5bfda107e4e/default/b7e45e39-22c1-45bf-9df9-78702f724a2e"
                     }
                 ]
             }
