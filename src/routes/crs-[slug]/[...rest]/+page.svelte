@@ -8,7 +8,7 @@
   export let data;
   let locals = {
     expandSec: data.sec_slug, selectedCon: data.con_slug,
-    ytIDRegex: x=>(x.match(/(?:youtu\.be\/|youtube\.com\/(?:watch\?(?:.*&)?v=|embed\/|v\/))([a-zA-Z0-9_-]{11})/)||[])[1],
+    ytIDRegex: x=>(x.match(/(?:youtu\.be\/|youtube\.com\/(?:watch\?(?:.*&)?v=|embed\/|v\/|live\/))([a-zA-Z0-9_-]{11})/) || [])[1],
     gdIDRegex: x=>(x.match(/(?:https?:\/\/)?(?:drive|docs)\.google(?:usercontent)?\.com\/.*?(?:\/d\/|[?&]id=)([a-zA-Z0-9_-]{10,})/i)||[])[1],
   };
   function setCookie(cname, cvalue, exdays) {
@@ -56,8 +56,10 @@
               <span class="md:text-xl">দুঃখিত, এটি একটি পরীক্ষার কনটেন্ট। পরীক্ষা শুধুমাত্র মূল সাইটে দেওয়া যাবে, তাই এখানে আলাদা পরীক্ষার UI যোগ করা সম্ভব নয়।</span>
             </div>
           </div>
-        {:else if data.cur_content.type == 'video' && data.cur_content.source == 'youtube' && locals.ytIDRegex(data.cur_content.link || '')}
+        {:else if ((data.cur_content.type == 'video' && (data.cur_content.source == 'youtube' || data.cur_content.source == 'embedded')) || data.cur_content.type == 'link') && locals.ytIDRegex(data.cur_content.link || '')}
           <iframe class="w-full h-full" src="https://www.youtube.com/embed/{locals.ytIDRegex(data.cur_content.link || '')}" frameborder="0" title="{data.cur_content.title}" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+        {:else if data.cur_content.type == 'video' && data.cur_content.source == 'tenbyte'}
+          <iframe class="w-full h-full" src="{data.cur_content.link}" frameborder="0" title="{data.cur_content.title}" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
         {:else if data.cur_content.type == 'link' && locals.gdIDRegex(data.cur_content.link)}
           <iframe class="w-full h-full" src="https://drive.google.com/file/d/{locals.gdIDRegex(data.cur_content.link)}/preview" frameborder="0" title="{data.cur_content.title}" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
         {:else if data.cur_content.type == 'pdf' && data.cur_content.link?.endsWith('.pdf')}
