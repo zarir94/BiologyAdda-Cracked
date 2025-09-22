@@ -5,15 +5,15 @@
         "img": "https://biology-adda.sgp1.digitaloceanspaces.com/courses/iAL9nCwhAstWj6OibWqIZtZEm6wuLdPK.jpg",
         "sections": [
             {
-                "title": "HSC 2027 Biology Course Demo Classes",
-                "slug": "hsc-2027-biology-course-demo-classes",
+                "title": "HSC 2027 Cycle-01 Demo Classes",
+                "slug": "hsc-2027-cycle-01-demo-classes",
                 "contents": [
                     {
                         "title": "Biology Foundation Class-01",
                         "slug": "biology-foundation-class-01",
                         "type": "video",
                         "source": "youtube",
-                        "link": "https://youtu.be/xKLPWl1RUAg?si=XXkOo1ms6gakYG-P"
+                        "link": "https://youtu.be/xKLPWl1RUAg?si=iww3d8oOaXExVXJR"
                     },
                     {
                         "title": "Biology Foundation Class-02",
@@ -21,13 +21,6 @@
                         "type": "video",
                         "source": "youtube",
                         "link": "https://youtu.be/5Aw36pLyjd0?si=0JLOFIL2HXh4K_js"
-                    },
-                    {
-                        "title": "\u09b8\u09b9\u099c\u09c7\u0987 \u09aa\u09be\u09b0\u09cd\u09a5\u0995\u09cd\u09af \u09b6\u09bf\u0996\u09bf - \u09aa\u09cd\u09b0\u09cb\u099f\u09cb\u09aa\u09cd\u09b2\u09be\u09b8\u09cd\u099f Vs \u09aa\u09cd\u09b0\u09cb\u099f\u09cb\u09aa\u09cd\u09b2\u09be\u099c\u09ae Vs \u09b8\u09be\u0987\u099f\u09cb\u09aa\u09cd\u09b2\u09be\u099c\u09ae",
-                        "slug": "shjei-parthkz-sikhi-protoplast-vs-protoplajm-vs-saitoplajm",
-                        "type": "video",
-                        "source": "youtube",
-                        "link": "https://youtu.be/_oerOvqIo6A?si=uGzbByKcI-G1QGBc"
                     },
                     {
                         "title": "HSC 2027 \u098f \u09b8\u09ac\u09be\u09b0 \u099a\u09c7\u09af\u09bc\u09c7 \u098f\u0997\u09bf\u09af\u09bc\u09c7 \u09a5\u09be\u0995\u09be\u09b0 Masterplan!",
@@ -42,6 +35,13 @@
                         "type": "video",
                         "source": "youtube",
                         "link": "https://youtu.be/y14c1bK1-Bc?si=2Ro_CEmvCqydNyft"
+                    },
+                    {
+                        "title": "\u09b8\u09b9\u099c\u09c7\u0987 \u09aa\u09be\u09b0\u09cd\u09a5\u0995\u09cd\u09af \u09b6\u09bf\u0996\u09bf - \u09aa\u09cd\u09b0\u09cb\u099f\u09cb\u09aa\u09cd\u09b2\u09be\u09b8\u09cd\u099f Vs \u09aa\u09cd\u09b0\u09cb\u099f\u09cb\u09aa\u09cd\u09b2\u09be\u099c\u09ae Vs \u09b8\u09be\u0987\u099f\u09cb\u09aa\u09cd\u09b2\u09be\u099c\u09ae",
+                        "slug": "shjei-parthkz-sikhi-protoplast-vs-protoplajm-vs-saitoplajm",
+                        "type": "video",
+                        "source": "youtube",
+                        "link": "https://youtu.be/_oerOvqIo6A?si=uGzbByKcI-G1QGBc"
                     },
                     {
                         "title": "\ud83d\udd25 Haploid Vs Diploid - \u0986\u09ae\u09bf \u09aa\u09be\u09b0\u09b2\u09c7 \u09b8\u09ac\u09be\u0987\u0995\u09c7 \u098f\u0987 \u09ad\u09bf\u09a1\u09bf\u0993\u099f\u09be \u09a6\u09c7\u0996\u09be\u09a4\u09be\u09ae!",
@@ -97,8 +97,8 @@
                         "title": "\u09b2\u09c7\u0995\u099a\u09be\u09b0-\u09e7: \u0989\u09aa\u0995\u09cd\u09b0\u09ae\u09a3\u09bf\u0995\u09be & \u0995\u09cb\u09b7\u09c7\u09b0 \u09ac\u09c7\u09b8\u09bf\u0995",
                         "slug": "lekcar-1-upkrmnika-kosher-besik",
                         "type": "video",
-                        "source": "youtube",
-                        "link": "https://youtu.be/69psjZacL-E?si=0u2t3FPCK_5rzKk1"
+                        "source": "tenbyte",
+                        "link": "https://player.vidinfra.com/stream/3f9eba17-410f-4cf7-8149-e5bfda107e4e/default/ca3ff4b5-03ec-493c-b6d6-d8e79a29fc23"
                     },
                     {
                         "title": "\u0995\u09cb\u09b7 \u0993 \u098f\u09b0 \u0997\u09a0\u09a8 - \u09aa\u09c1\u09b0\u09cb \u099a\u09cd\u09af\u09be\u09aa\u09cd\u099f\u09be\u09b0\u09c7\u09b0 \u09a6\u09be\u0997\u09be\u09a8\u09cb \u09ac\u0987\u09af\u09bc\u09c7\u09b0 PDF",
@@ -110,70 +110,68 @@
                         "title": "\u09b2\u09c7\u0995\u099a\u09be\u09b0-\u09e8: \u0997\u09b2\u09cd\u09aa\u09c7 \u0997\u09b2\u09cd\u09aa\u09c7 \u09b6\u09bf\u0996\u09bf - \u09aa\u09cd\u09b0\u09a5\u09ae \u0995\u09cb\u09b7\u09c7\u09b0 \u09b8\u09c3\u09b7\u09cd\u099f\u09bf, \u0995\u09cb\u09b7\u09c7\u09b0 \u09ac\u09c8\u09b6\u09bf\u09b7\u09cd\u099f\u09cd\u09af & \u0995\u09cb\u09b7\u09c7\u09b0 \u09aa\u09cd\u09b0\u0995\u09be\u09b0\u09ad\u09c7\u09a6",
                         "slug": "lekcar-2-glpe-glpe-sikhi-prthm-kosher-srrishti-kosher-boisishtz-kosher-prkarved",
                         "type": "video",
-                        "source": "youtube",
-                        "link": "https://youtu.be/l0i7F5ekJUI?si=4BBDqIKeuV8-6kvr"
+                        "source": "tenbyte",
+                        "link": "https://player.vidinfra.com/stream/3f9eba17-410f-4cf7-8149-e5bfda107e4e/default/8072104e-b673-4302-a2de-cca10d3e6d58"
                     },
                     {
                         "title": "\u09b2\u09c7\u0995\u099a\u09be\u09b0-\u09e9: \u099a\u09bf\u09a4\u09cd\u09b0 \u0986\u0981\u0995\u09be \u09b6\u09bf\u0996\u09bf - \u098f\u0995\u099f\u09bf \u0986\u09a6\u09b0\u09cd\u09b6 \u0989\u09a6\u09cd\u09ad\u09bf\u09a6\u0995\u09cb\u09b7\u09c7\u09b0 \u0997\u09a0\u09a8",
                         "slug": "lekcar-3-citr-annka-sikhi-ekti-adrs-udvidkosher-gthn",
                         "type": "video",
-                        "source": "youtube",
-                        "link": "https://youtu.be/N1MrFLJQBOI?si=RGNnE2npYdkbkRGu"
+                        "source": "tenbyte",
+                        "link": "https://player.vidinfra.com/stream/3f9eba17-410f-4cf7-8149-e5bfda107e4e/default/9ad0561d-1434-4e6e-9d62-a04001f2c685"
                     },
                     {
                         "title": "\u09b2\u09c7\u0995\u099a\u09be\u09b0-\u09ea: \u09b8\u09c3\u099c\u09a8\u09b6\u09c0\u09b2\u09c7\u09b0 \u099f\u09aa\u09bf\u0995 - \u0995\u09cb\u09b7 \u09aa\u09cd\u09b0\u09be\u099a\u09c0\u09b0 \u098f\u09b0 A To Z",
                         "slug": "lekcar-4-srrijnsheeler-tpik-kosh-praceer-er-a-to-z",
                         "type": "video",
-                        "source": "youtube",
-                        "link": "https://youtu.be/WW4_Z-fAjGA?si=gzQMQuYerQYEVdaM"
+                        "source": "tenbyte",
+                        "link": "https://player.vidinfra.com/stream/3f9eba17-410f-4cf7-8149-e5bfda107e4e/default/3a04c19e-011e-4e11-acf3-a598a06202b0"
                     },
                     {
                         "title": "\u09b2\u09c7\u0995\u099a\u09be\u09b0-\u09eb: \u09b8\u09b9\u099c\u09c7\u0987 \u09aa\u09be\u09b0\u09cd\u09a5\u0995\u09cd\u09af \u09b6\u09bf\u0996\u09bf - \u09aa\u09cd\u09b0\u09cb\u099f\u09cb\u09aa\u09cd\u09b2\u09be\u09b8\u09cd\u099f Vs \u09aa\u09cd\u09b0\u09cb\u099f\u09cb\u09aa\u09cd\u09b2\u09be\u099c\u09ae Vs \u09b8\u09be\u0987\u099f\u09cb\u09aa\u09cd\u09b2\u09be\u099c\u09ae",
                         "slug": "lekcar-5-shjei-parthkz-sikhi-protoplast-vs-protoplajm-vs-saitoplajm",
-                        "type": "video",
-                        "source": "youtube",
-                        "link": "https://youtu.be/_oerOvqIo6A?si=uGzbByKcI-G1QGBc"
+                        "type": "link",
+                        "link": "https://youtu.be/_oerOvqIo6A?si=ghkhtmWBs76TScmG"
                     },
                     {
                         "title": "\u09b2\u09c7\u0995\u099a\u09be\u09b0-\u09ec: \u09b8\u09c3\u099c\u09a8\u09b6\u09c0\u09b2\u09c7\u09b0 HOT \u099f\u09aa\u09bf\u0995 - \u0995\u09cb\u09b7 \u099d\u09bf\u09b2\u09cd\u09b2\u09bf & \u09ab\u09cd\u09b2\u09c1\u0987\u09a1 \u09ae\u09cb\u099c\u09be\u0987\u0995 \u09ae\u09a1\u09c7\u09b2 \u098f\u09b0 \u09b8\u09c7\u09b0\u09be \u0995\u09cd\u09b2\u09be\u09b8",
                         "slug": "lekcar-6-srrijnsheeler-hot-tpik-kosh-jhilli-fluid-mojaik-mdel-er-sera-klas",
                         "type": "video",
-                        "source": "youtube",
-                        "link": "https://youtu.be/TE-qrta-bEc?si=HF8KNbHSmQ-KElAz"
+                        "source": "tenbyte",
+                        "link": "https://player.vidinfra.com/stream/3f9eba17-410f-4cf7-8149-e5bfda107e4e/default/85d9746c-b395-4ac1-b14b-6c785645c220"
                     },
                     {
                         "title": "\u09b2\u09c7\u0995\u099a\u09be\u09b0-\u09ed: \u09b8\u09be\u0987\u099f\u09cb\u09aa\u09cd\u09b2\u09be\u099c\u09ae\u09c7\u09b0 \u0997\u09b9\u09c0\u09a8\u09c7- \u09a6\u09be\u09b0\u09c1\u09a3 \u09b8\u09ac \u09ac\u09c7\u09b8\u09bf\u0995 & \u09b0\u09be\u0987\u09ac\u09cb\u099c\u09cb\u09ae \u098f\u09b0 A To Z",
                         "slug": "lekcar-7-saitoplajmer-gheene-darun-sb-besik-raibojom-er-a-to-z",
                         "type": "video",
-                        "source": "youtube",
-                        "link": "https://youtu.be/GWe3OM98O6E?si=m9iO0C4fRbhD_j8X"
+                        "source": "tenbyte",
+                        "link": "https://player.vidinfra.com/stream/3f9eba17-410f-4cf7-8149-e5bfda107e4e/default/d418b0b7-cf4e-43ba-959d-6a39ac037aad"
                     },
                     {
                         "title": "\u09b2\u09c7\u0995\u099a\u09be\u09b0-\u09ee: MCQ \u098f\u09b0 HOT \u099f\u09aa\u09bf\u0995 - ER & Golgi Body \u098f\u09b0 A To Z",
                         "slug": "lekcar-8-mcq-er-hot-tpik-er-golgi-body-er-a-to-z",
                         "type": "video",
-                        "source": "youtube",
-                        "link": "https://youtu.be/rmqNJzntUlU?si=sYZP0a9IjzbUPwWA"
+                        "source": "tenbyte",
+                        "link": "https://player.vidinfra.com/stream/3f9eba17-410f-4cf7-8149-e5bfda107e4e/default/1f098ba3-f747-4eb4-beb4-55193e45cad1"
                     },
                     {
                         "title": "\u09b2\u09c7\u0995\u099a\u09be\u09b0-\u09ef: \u09b8\u09c3\u099c\u09a8\u09b6\u09c0\u09b2\u09c7\u09b0 '\u0996' \u09a4\u09c7 \u0997\u09c1\u09b0\u09c1\u09a4\u09cd\u09ac\u09aa\u09c2\u09b0\u09cd\u09a3 - \u09b2\u09be\u0987\u09b8\u09cb\u09b8\u09cb\u09ae, \u09aa\u09be\u09b0\u0985\u0995\u09cd\u09b8\u09bf\u09b8\u09cb\u09ae & \u0997\u09cd\u09b2\u09be\u0987\u0985\u0995\u09cd\u09b8\u09bf\u09b8\u09cb\u09ae \u098f\u09b0 A To Z",
                         "slug": "lekcar-9-srrijnsheeler-kh-te-gurutwpuurn-laisosom-paroksisom-glaioksisom-er-a-to-z",
                         "type": "video",
-                        "source": "youtube",
-                        "link": "https://youtu.be/TCLq9a-hJvw?si=FZf5yfd8kuF4SYhC"
+                        "source": "tenbyte",
+                        "link": "https://player.vidinfra.com/stream/3f9eba17-410f-4cf7-8149-e5bfda107e4e/default/8f400ee5-e261-47d6-b37c-53d686fc0e33"
                     },
                     {
                         "title": "\u09b2\u09c7\u0995\u099a\u09be\u09b0-\u09e7\u09e6: \u09ae\u099c\u09be\u09b0 \u09b8\u09be\u09a5\u09c7 \u09b6\u09bf\u0996\u09bf - \u0995\u09cb\u09b7\u09c0\u09af\u09bc \u0995\u0999\u09cd\u0995\u09be\u09b2, \u09b8\u09c7\u09a8\u09cd\u099f\u09cd\u09b0\u09bf\u0993\u09b2, \u0995\u09cb\u09b7 \u0997\u09b9\u09cd\u09ac\u09b0 & \u09ad\u09c7\u09b8\u09bf\u0995\u09b2",
                         "slug": "lekcar-10-mjar-sathe-sikhi-kosheez-knkal-sentriool-kosh-ghwr-vesikl",
                         "type": "video",
-                        "source": "youtube",
-                        "link": "https://youtu.be/BkmqLkNSU-I?si=9S-9usOD4vz8Auxy"
+                        "source": "tenbyte",
+                        "link": "https://player.vidinfra.com/stream/3f9eba17-410f-4cf7-8149-e5bfda107e4e/default/1a7cc1a3-3980-4c80-980a-53b8267ff056"
                     },
                     {
                         "title": "\u2705 \u0995\u09cb\u09b7 \u0993 \u098f\u09b0 \u0997\u09a0\u09a8 : Live Class 01",
                         "slug": "kosh-oo-er-gthn-live-class-01",
-                        "type": "video",
-                        "source": "youtube",
+                        "type": "link",
                         "link": "https://youtu.be/sbB5kcue98E?si=ZWNuOcaeLEug7Lkf"
                     },
                     {
@@ -185,57 +183,54 @@
                         "title": "\u09b2\u09c7\u0995\u099a\u09be\u09b0-\u09e7\u09e7: \u098f\u0995 \u0995\u09cd\u09b2\u09be\u09b8\u09c7\u0987 \u09b6\u09bf\u0996\u09bf \u09aa\u09cd\u09b2\u09be\u09b8\u09cd\u099f\u09bf\u09a1 \u098f\u09b0 A to Z",
                         "slug": "lekcar-11-ek-klasei-sikhi-plastid-er-a-to-z",
                         "type": "video",
-                        "source": "youtube",
-                        "link": "https://youtu.be/TDR6vdm4NRM?si=RF1Ni5op9cR_s3Ki"
+                        "source": "tenbyte",
+                        "link": "https://player.vidinfra.com/stream/3f9eba17-410f-4cf7-8149-e5bfda107e4e/default/febafe7e-9f7a-4a26-9b35-77a11a47d599"
                     },
                     {
                         "title": "\u09b2\u09c7\u0995\u099a\u09be\u09b0-\u09e7\u09e8: \u09b8\u09c3\u099c\u09a8\u09b6\u09c0\u09b2\u09c7\u09b0 HOT \u099f\u09aa\u09bf\u0995 - \u0995\u09cd\u09b2\u09cb\u09b0\u09cb\u09aa\u09cd\u09b2\u09be\u09b8\u09cd\u099f & \u09ae\u09be\u0987\u099f\u09cb\u0995\u09a8\u09cd\u09a1\u09cd\u09b0\u09bf\u09af\u09bc\u09be\u09b0 \u0997\u09a0\u09a8 \u098f\u09b0 \u0989\u09aa\u09b0 \u09b8\u09c7\u09b0\u09be \u0995\u09cd\u09b2\u09be\u09b8",
                         "slug": "lekcar-12-srrijnsheeler-hot-tpik-kloroplast-maitokndrizar-gthn-er-upr-sera-klas",
                         "type": "video",
-                        "source": "youtube",
-                        "link": "https://youtu.be/ZCcgwSfWAjY?si=vXvsMzVwl-fPvK_p"
+                        "source": "tenbyte",
+                        "link": "https://player.vidinfra.com/stream/3f9eba17-410f-4cf7-8149-e5bfda107e4e/default/9154be7e-8cfc-4894-a249-ef00aedbb5a1"
                     },
                     {
                         "title": "\u09b2\u09c7\u0995\u099a\u09be\u09b0-\u09e7\u09e9: \u09a8\u09bf\u0989\u0995\u09cd\u09b2\u09bf\u09af\u09bc\u09be\u09b8 & \u0995\u09cd\u09b0\u09cb\u09ae\u09cb\u099c\u09cb\u09ae\u09c7\u09b0 \u0985\u09a4\u09b2 \u0997\u09ad\u09c0\u09b0\u09c7!",
                         "slug": "lekcar-13-niuklizas-kromojomer-otl-gveere-1",
                         "type": "video",
-                        "source": "youtube",
-                        "link": "https://youtu.be/XP2_nBj4EB4?si=Fd8mvZx4pXWFdwCt"
+                        "source": "tenbyte",
+                        "link": "https://player.vidinfra.com/stream/3f9eba17-410f-4cf7-8149-e5bfda107e4e/default/e10365b3-6094-4209-9db8-99cc9ff1add5"
                     },
                     {
                         "title": "\ud83c\udf89 Bonus Class - \u0995\u09cd\u09b0\u09cb\u09ae\u09cb\u099c\u09cb\u09ae Vs \u0995\u09cd\u09b0\u09cb\u09ae\u09be\u099f\u09bf\u09a1 Vs \u0995\u09cd\u09b0\u09cb\u09ae\u09cb\u09a8\u09c7\u09ae\u09be Vs \u0995\u09cd\u09b0\u09cb\u09ae\u09cb\u09ae\u09bf\u09af\u09bc\u09be\u09b0 - \u0986\u09b8\u09b2 \u09aa\u09be\u09b0\u09cd\u09a5\u0995\u09cd\u09af\u099f\u09be \u0995\u09cb\u09a5\u09be\u09af\u09bc?",
                         "slug": "bonus-class-kromojom-vs-kromatid-vs-kromonema-vs-kromomizar-asl-parthkzta-kothaz",
-                        "type": "video",
-                        "source": "youtube",
-                        "link": "https://youtu.be/fRH6ATRiQ2A"
+                        "type": "link",
+                        "link": "https://youtu.be/fRH6ATRiQ2A?si=XBB0yGLukDcRx2tU"
                     },
                     {
                         "title": "\ud83c\udf89 Bonus Class - Haploid Vs Diploid - \u0986\u09b8\u09b2 \u09aa\u09be\u09b0\u09cd\u09a5\u0995\u09cd\u09af\u099f\u09be \u0995\u09cb\u09a5\u09be\u09af\u09bc?",
                         "slug": "bonus-class-haploid-vs-diploid-asl-parthkzta-kothaz",
-                        "type": "video",
-                        "source": "youtube",
-                        "link": "https://youtu.be/AXTI7pmcODU"
+                        "type": "link",
+                        "link": "https://youtu.be/AXTI7pmcODU?si=e-CJp-Urf5B7G0R6"
                     },
                     {
                         "title": "\u09b2\u09c7\u0995\u099a\u09be\u09b0-\u09e7\u09ea: \u09ae\u099c\u09ac\u09c1\u09a4 \u09ac\u09c7\u09b8\u09bf\u0995\u09c7 \u09b6\u09bf\u0996\u09bf \u0995\u09cd\u09b0\u09cb\u09ae\u09cb\u099c\u09cb\u09ae & \u09a8\u09bf\u0989\u0995\u09cd\u09b2\u09bf\u0995 \u098f\u09b8\u09bf\u09a1",
                         "slug": "lekcar-14-mjbut-besike-sikhi-kromojom-niuklik-esid-1",
                         "type": "video",
-                        "source": "youtube",
-                        "link": "https://youtu.be/vroTHekJ8Sg?si=jYtSwvdMQSt5NoZW"
+                        "source": "tenbyte",
+                        "link": "https://player.vidinfra.com/stream/3f9eba17-410f-4cf7-8149-e5bfda107e4e/default/63b56895-d772-4fd6-91cb-8e4e4f8a2295"
                     },
                     {
                         "title": "\u09b2\u09c7\u0995\u099a\u09be\u09b0-\u09e7\u09eb: \u09b8\u09c3\u099c\u09a8\u09b6\u09c0\u09b2 & MCQ \u098f\u09b0 HOT \u099f\u09aa\u09bf\u0995 - DNA & RNA \u098f\u09b0 \u0989\u09aa\u09b0 \u0986\u0997\u09c1\u09a8 \u0995\u09cd\u09b2\u09be\u09b8!",
                         "slug": "lekcar-15-srrijnsheel-mcq-er-hot-tpik-dna-rna-er-upr-agun-klas-1",
                         "type": "video",
-                        "source": "youtube",
-                        "link": "https://youtu.be/la2NCSL2gyc"
+                        "source": "tenbyte",
+                        "link": "https://player.vidinfra.com/stream/3f9eba17-410f-4cf7-8149-e5bfda107e4e/default/79f36c39-a683-42ac-9c4c-1b568843e991"
                     },
                     {
                         "title": "\u2705 \u0995\u09cb\u09b7 \u0993 \u098f\u09b0 \u0997\u09a0\u09a8 : Live Class 02",
                         "slug": "kosh-oo-er-gthn-live-class-02",
-                        "type": "video",
-                        "source": "youtube",
-                        "link": "https://youtu.be/iyNkhB9j7Ws"
+                        "type": "link",
+                        "link": "https://youtu.be/iyNkhB9j7Ws?si=VFOvfqoCHvMZ6l3J"
                     },
                     {
                         "title": "\ud83d\udd25 \u0995\u09cb\u09b7 \u0993 \u098f\u09b0 \u0997\u09a0\u09a8 : Exam 02",
@@ -246,8 +241,8 @@
                         "title": "\u09b2\u09c7\u0995\u099a\u09be\u09b0-\u09e7\u09ec: \u09b8\u09c3\u099c\u09a8\u09b6\u09c0\u09b2\u09c7\u09b0 HOT \u099f\u09aa\u09bf\u0995 - DNA Replication \u098f\u09b0 \u0989\u09aa\u09b0 \u0986\u0997\u09c1\u09a8 \u0995\u09cd\u09b2\u09be\u09b8!",
                         "slug": "lekcar-16-srrijnsheeler-hot-tpik-dna-replication-er-upr-agun-klas",
                         "type": "video",
-                        "source": "youtube",
-                        "link": "https://youtu.be/mSSoN8Epkwc"
+                        "source": "tenbyte",
+                        "link": "https://player.vidinfra.com/stream/3f9eba17-410f-4cf7-8149-e5bfda107e4e/default/2240b04c-3baf-4fe4-a2d0-5ffec18187e8"
                     }
                 ]
             },
@@ -265,15 +260,15 @@
                         "title": "\u09b2\u09c7\u0995\u099a\u09be\u09b0-\u09e7: \u0995\u09cb\u09b7 \u09ac\u09bf\u09ad\u09be\u099c\u09a8\u09c7\u09b0 \u098f\u09ae\u09a8 \u09b8\u09ac \u09ac\u09c7\u09b8\u09bf\u0995, \u09af\u09be \u09ac\u0987\u09a4\u09c7 \u09a8\u09c7\u0987!",
                         "slug": "lekcar-1-kosh-bivajner-emn-sb-besik-za-bite-nei",
                         "type": "video",
-                        "source": "youtube",
-                        "link": "https://youtu.be/IdBD0DkN3v8"
+                        "source": "tenbyte",
+                        "link": "https://player.vidinfra.com/stream/3f9eba17-410f-4cf7-8149-e5bfda107e4e/default/94847500-d1eb-43c4-a1ec-a68a8cd87def"
                     },
                     {
                         "title": "\u09b2\u09c7\u0995\u099a\u09be\u09b0-\u09e8: \u0985\u09cd\u09af\u09be\u09ae\u09be\u0987\u099f\u09cb\u09b8\u09bf\u09b8 & \u0995\u09cb\u09b7 \u099a\u0995\u09cd\u09b0 - \u09b8\u09b9\u099c\u09c7\u0987 \u09a6\u09ab\u09be-\u09b0\u09ab\u09be!",
                         "slug": "lekcar-2-ozamaitosis-kosh-ckr-shjei-dfa-rfa",
                         "type": "video",
-                        "source": "youtube",
-                        "link": "https://youtu.be/5HLX1JQi_Sc"
+                        "source": "tenbyte",
+                        "link": "https://player.vidinfra.com/stream/3f9eba17-410f-4cf7-8149-e5bfda107e4e/default/acbba94f-1dd7-469a-b13a-9ae917802713"
                     },
                     {
                         "title": "\u09b2\u09c7\u0995\u099a\u09be\u09b0-\u09e9: \u09b2\u09be\u0987\u09ad \u0995\u09cd\u09b2\u09be\u09b8\u09c7 \u09b6\u09c7\u09b7 \u0995\u09b0\u09cb \u09ae\u09be\u0987\u099f\u09cb\u09b8\u09bf\u09b8 \u0995\u09cb\u09b7 \u09ac\u09bf\u09ad\u09be\u099c\u09a8 \u098f\u09b0 A to Z!",
@@ -285,8 +280,8 @@
                         "title": "\u09b2\u09c7\u0995\u099a\u09be\u09b0-\u09ea: \u09ae\u09be\u09af\u09bc\u09cb\u09b8\u09bf\u09b8 \u0995\u09cb\u09b7 \u09ac\u09bf\u09ad\u09be\u099c\u09a8\u09c7\u09b0 \u0997\u09c1\u09b0\u09c1\u09a4\u09cd\u09ac\u09aa\u09c2\u09b0\u09cd\u09a3 Basics!",
                         "slug": "lekcar-4-mazosis-kosh-bivajner-gurutwpuurn-basics",
                         "type": "video",
-                        "source": "youtube",
-                        "link": "https://youtu.be/CWZT34G2LBw?si=46Op9QYdzZ_YvOQv"
+                        "source": "tenbyte",
+                        "link": "https://player.vidinfra.com/stream/3f9eba17-410f-4cf7-8149-e5bfda107e4e/default/37932d73-e81a-4313-94c2-00bd316d0827"
                     },
                     {
                         "title": "\u09b2\u09c7\u0995\u099a\u09be\u09b0-\u09eb: \u09b8\u09c3\u099c\u09a8\u09b6\u09c0\u09b2\u09c7\u09b0 HOT Class - \u09ae\u09be\u09af\u09bc\u09cb\u09b8\u09bf\u09b8 \u0995\u09cb\u09b7 \u09ac\u09bf\u09ad\u09be\u099c\u09a8 -  Prophase-1 \u098f\u09b0 \u09b8\u09ac\u0995\u09bf\u099b\u09c1!",
