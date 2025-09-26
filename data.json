@@ -1,5 +1,21 @@
 [
     {
+        "title": "HSC 2027 Cycle-02 Next Level Biology Course",
+        "slug": "hsc-2027-cycle-02-next-level-biology-course",
+        "img": "https://biology-adda.sgp1.digitaloceanspaces.com/courses/7oN7pGj5gMrmULfYbGdlKL9mmYoUOCGp.jpg",
+        "sections": [
+            {
+                "title": "\ud83d\udc8e \u0986\u0997\u09c7\u09b0 \u09ac\u09cd\u09af\u09be\u099a\u09c7\u09b0 \u0986\u09b0\u09cd\u0995\u09be\u0987\u09ad \u0995\u09cd\u09b2\u09be\u09b8\u0997\u09c1\u09b2\u09cb \u098f\u0996\u09be\u09a8\u09c7 \ud83d\udc48",
+                "slug": "ager-bzacer-arkaiv-klasgulo-ekhane",
+                "contents": []
+            }
+        ],
+        "category": {
+            "title": "HSC 2027",
+            "slug": "hsc-2027"
+        }
+    },
+    {
         "title": "HSC 2027 Cycle-01 Next Level Biology Course",
         "slug": "hsc-2027-cycle-01-next-level-biology-course",
         "img": "https://biology-adda.sgp1.digitaloceanspaces.com/courses/iAL9nCwhAstWj6OibWqIZtZEm6wuLdPK.jpg",
