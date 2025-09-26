@@ -1,7 +1,6 @@
-from py_mini_racer import MiniRacer
 from requests import get
 from bs4 import BeautifulSoup
-import re, json, time
+import json, time
 
 
 def modGet(*a, **kw):
@@ -16,6 +15,14 @@ def modGet(*a, **kw):
         return modGet(*a, **kw)
 
 
+def getURLfromHTML(html: str, removeArgs: bool = False):
+    doc = BeautifulSoup(html or '', 'html.parser')
+    if e := doc.select_one('[href],[src]'):
+        u = e.get('href', e.get('src', None))
+        if u and removeArgs: u = u.split('?')[0]
+        return u
+
+
 def get_single_course_data(slug: str):
     data = modGet('https://api.biologyadda.com/api/courses/' + slug).json()
     course = dict(title=data['title'], slug=data['slug'], img=data['image']['link'], sections=[])
@@ -26,7 +33,10 @@ def get_single_course_data(slug: str):
             acon = dict(title=c['title'], slug=c['slug'], type=c['type'])
             rd = modGet('https://api.biologyadda.com/api/content/' + c["slug"]).json()['data'][c['type']]
             if c['type'] == 'video':
-                acon = acon | dict(source=rd['source'], link=rd['link'])
+                lk = None
+                if rd['source'] == 'embedded':
+                    lk = getURLfromHTML(rd.get('embedded'), True)
+                acon = acon | dict(source=rd['source'], link=lk or rd.get('link'))
             elif c['type'] == 'link' or c['type'] == 'pdf':
                 acon['link'] = rd['link']
             elif c['type'] == 'note':

@@ -20,6 +20,12 @@
   onMount(()=>{
     window.data = data;
   })
+  function vidInfraLink(mainLink) {
+    let pu = new URL(mainLink);
+    pu.host = "reverse-proxy-ba.onrender.com";
+    pu.searchParams.set('watermark', 'W3sidHlwZSI6InJ0ZXh0IiwidGV4dCI6IkJBIENyYWNrZWQiLCJhbHBoYSI6IjAuOCIsImNvbG9yIjoiI2Y3ZGYyYSIsInNpemUiOiIyMCIsImludGVydmFsIjoiNTAwMCJ9LHsidHlwZSI6InRleHQiLCJ0ZXh0IjoiSGFja2VkIENvdXJzZXMiLCJhbHBoYSI6IjAuOCIsImNvbG9yIjoiI0ZFNUMyMSIsInNpemUiOiIxNSJ9XQ==');
+    return pu.toString();
+  }
 </script>
 
 <svelte:head>
@@ -59,7 +65,7 @@
         {:else if ((data.cur_content.type == 'video' && (data.cur_content.source == 'youtube' || data.cur_content.source == 'embedded')) || data.cur_content.type == 'link') && locals.ytIDRegex(data.cur_content.link || '')}
           <iframe class="w-full h-full" src="https://www.youtube.com/embed/{locals.ytIDRegex(data.cur_content.link || '')}" frameborder="0" title="{data.cur_content.title}" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
         {:else if data.cur_content.type == 'video' && data.cur_content.source == 'tenbyte'}
-          <iframe class="w-full h-full" src="{data.cur_content.link}" frameborder="0" title="{data.cur_content.title}" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+          <iframe class="w-full h-full" src="{vidInfraLink(data.cur_content.link)}" frameborder="0" title="{data.cur_content.title}" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
         {:else if data.cur_content.type == 'link' && locals.gdIDRegex(data.cur_content.link)}
           <iframe class="w-full h-full" src="https://drive.google.com/file/d/{locals.gdIDRegex(data.cur_content.link)}/preview" frameborder="0" title="{data.cur_content.title}" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
         {:else if data.cur_content.type == 'pdf' && data.cur_content.link?.endsWith('.pdf')}
