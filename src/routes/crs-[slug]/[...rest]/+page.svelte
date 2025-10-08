@@ -1,7 +1,7 @@
 <script lang="ts">
   //@ts-nocheck
 	import { goto } from '$app/navigation';
-	import { ChevronDown, InfoIcon, PinIcon, PinOffIcon } from 'lucide-svelte';
+	import { ChevronDown, InfoIcon, PinIcon, PinOffIcon, TriangleAlertIcon } from 'lucide-svelte';
 	import { onMount } from 'svelte';
 	import { slide } from 'svelte/transition';
 
@@ -17,9 +17,6 @@
     let expires = "expires="+ d.toUTCString();
     document.cookie = cname + "=" + cvalue + ";" + expires + ";path=/";
   }
-  onMount(()=>{
-    window.data = data;
-  })
   function vidInfraLink(mainLink) {
     let pu = new URL(mainLink);
     pu.host = "reverse-proxy-ba.onrender.com";
@@ -29,8 +26,19 @@
 </script>
 
 <svelte:head>
-  <title>{data.info.title} - BA Cracked</title>
+  <title>{data?.info?.title || 'Cracked Course'} - BA Cracked</title>
 </svelte:head>
+
+{#if data?.empty}
+
+<div role="alert" class="alert alert-warning alert-soft mb-5">
+  <TriangleAlertIcon/>
+  <span class="md:text-lg">
+    এই Course-এ এখনো কোনো video বা content পাওয়া যাচ্ছে না। কারণ মূল <b>BiologyAdda</b> সাইটটি এখনো এটি <b>publish</b> করেনি। তারা publish করলেই সর্বশেষ course content এখানে স্বয়ংক্রিয়ভাবে <b>৩ ঘণ্টার</b> মধ্যে দেখানো হবে। ততক্ষণে আপনি চাইলে অন্য <b>cracked courses</b> ব্রাউজ করতে পারেন।
+  </span>
+</div>
+
+{:else}
 
 <div role="alert" class="alert alert-info alert-soft mb-5">
   <InfoIcon/>
@@ -112,6 +120,8 @@
     {/each}
   </div>
 </div>
+
+{/if}
 
 
 <style lang="postcss">

@@ -63,7 +63,10 @@
 </div>
 
 <div class="my-10 flex items-center justify-center">
-	{@html `<div id="sfc7dhws6ngxddl5mxgku61a6phrt45dda9"></div><script type="text/javascript" src="https://counter5.optistats.ovh/private/counter.js?c=7dhws6ngxddl5mxgku61a6phrt45dda9&down=async" async></script>`}
+	 {@html `
+<script src="https://counterapi.com/c.js?ns=bacracked.top" async ></script>
+<div class="counterapi" startNumber="2873" key="whole-site" style="min-height:44px" ></div>
+`}
 </div>
 
 <footer class="footer sm:footer-horizontal footer-center bg-base-200 text-base-content p-4">

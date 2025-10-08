@@ -16,8 +16,9 @@ export const load: PageServerLoad = async ({ params, cookies }) => {
         error(404);
     }
     if (!cur_content) {
-        sec_slug = courses.find(i=>i.slug == slug).sections[0].slug;
-        con_slug = courses.find(i=>i.slug == slug).sections[0].contents[0].slug;
+        sec_slug = courses.find(i=>i.slug == slug).sections[0]?.slug;
+        con_slug = courses.find(i=>i.slug == slug).sections[0]?.contents[0]?.slug;
+        if (!(sec_slug && con_slug)) return { empty: true, info: { title: courses.find(i=>i.slug == slug)?.title } };
         redirect(302, `/crs-${slug}/${sec_slug}/${con_slug}`)
     }
     return {
