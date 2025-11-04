@@ -5,6 +5,11 @@
         "img": "https://biology-adda.sgp1.digitaloceanspaces.com/courses/5zv288vKAqh4Kv6Jn0e5CzUbbUPed5Xd.jpg",
         "sections": [
             {
+                "title": "\ud83c\udf81\ud83c\udf81 \u09a6\u09be\u09b0\u09c1\u09a3 \u09b8\u09ac \u0997\u09bf\u09ab\u099f \u09a4\u09cb\u09ae\u09be\u09b0 \u099c\u09a8\u09cd\u09af! \ud83e\udd70",
+                "slug": "darun-sb-gift-tomar-jnz",
+                "contents": []
+            },
+            {
                 "title": "HSC 2027 Cycle-03 Demo Classes",
                 "slug": "hsc-2027-cycle-03-demo-classes",
                 "contents": []
@@ -25,7 +30,14 @@
             {
                 "title": "\ud83d\udc51 \u0995\u09cb\u09b0\u09cd\u09b8\u09c7\u09b0 Premium Group \u098f \u09af\u09c1\u0995\u09cd\u09a4 \u09b9\u0993!",
                 "slug": "korser-premium-group-e-zukt-hoo-1",
-                "contents": []
+                "contents": [
+                    {
+                        "title": "Join Cycle-03 Premium WhatsApp Group!",
+                        "slug": "join-cycle-03-premium-whatsapp-group",
+                        "type": "note",
+                        "html": "<h3><a href=\"https://chat.whatsapp.com/BVDuTk8Ea1QIgeVD6Z5Dnx?mode=wwt\" rel=\"noopener noreferrer\" target=\"_blank\">\u2705 <strong>HSC-27</strong> \u09ac\u09cd\u09af\u09be\u099a\u09c7\u09b0 <em>Cycle-3</em> \u098f\u09b0 <strong>Premium WhatsApp</strong> \u0997\u09cd\u09b0\u09c1\u09aa\u09c7 \u09af\u09c1\u0995\u09cd\u09a4 \u09b9\u09a4\u09c7 \u098f\u0996\u09be\u09a8\u09c7 \u0995\u09cd\u09b2\u09bf\u0995 \u0995\u09b0\u09cb \ud83d\udc47</a></h3><h3><a href=\"https://chat.whatsapp.com/BVDuTk8Ea1QIgeVD6Z5Dnx?mode=wwt\" rel=\"noopener noreferrer\" target=\"_blank\">\ud83d\udd25 <strong><u>Premium WhatsApp Group Link</u></strong><u>!!</u> \ud83d\udd25</a></h3><p><br></p>"
+                    }
+                ]
             },
             {
                 "title": "\ud83d\udc8e \u0986\u0997\u09c7\u09b0 \u09ac\u09cd\u09af\u09be\u099a\u09c7\u09b0 \u0986\u09b0\u09cd\u0995\u09be\u0987\u09ad \u0995\u09cd\u09b2\u09be\u09b8\u0997\u09c1\u09b2\u09cb \u098f\u0996\u09be\u09a8\u09c7 \ud83d\udc48",
@@ -35,7 +47,14 @@
             {
                 "title": "\ud83d\udc51 \u0985\u09a7\u09cd\u09af\u09be\u09af\u09bc-\u09e6\u09e9: \u0995\u09cb\u09b7 \u09b0\u09b8\u09be\u09af\u09bc\u09a8",
                 "slug": "odhzaz-03-kosh-rsazn",
-                "contents": []
+                "contents": [
+                    {
+                        "title": "\u0995\u09cb\u09b7 \u09b0\u09b8\u09be\u09af\u09bc\u09a8 - \u09aa\u09c1\u09b0\u09cb \u099a\u09cd\u09af\u09be\u09aa\u09cd\u099f\u09be\u09b0\u09c7\u09b0 \u09a6\u09be\u0997\u09be\u09a8\u09cb \u09ac\u0987\u09af\u09bc\u09c7\u09b0 PDF",
+                        "slug": "kosh-rsazn-puro-czaptarer-dagano-bizer-pdf",
+                        "type": "link",
+                        "link": "https://drive.google.com/file/d/14su9peAjqV5gHevIaQOtUx5MVwpm5pt0/view?usp=drivesdk"
+                    }
+                ]
             },
             {
                 "title": "\ud83d\udc51 \u0985\u09a7\u09cd\u09af\u09be\u09af\u09bc-\u09e6\u09eb: \u09b6\u09c8\u09ac\u09be\u09b2 \u0993 \u099b\u09a4\u09cd\u09b0\u09be\u0995",
@@ -68,6 +87,11 @@
         "slug": "hsc-2027-cycle-02-next-level-biology-course",
         "img": "https://biology-adda.sgp1.digitaloceanspaces.com/courses/7oN7pGj5gMrmULfYbGdlKL9mmYoUOCGp.jpg",
         "sections": [
+            {
+                "title": "\ud83c\udf81\ud83c\udf81 \u09a6\u09be\u09b0\u09c1\u09a3 \u09b8\u09ac \u0997\u09bf\u09ab\u099f \u09a4\u09cb\u09ae\u09be\u09b0 \u099c\u09a8\u09cd\u09af! \ud83e\udd70",
+                "slug": "darun-sb-gift-tomar-jnz-1",
+                "contents": []
+            },
             {
                 "title": "HSC 2027 Cycle-02 Demo Classes",
                 "slug": "hsc-2027-cycle-02-demo-classes",
@@ -200,8 +224,8 @@
                 "slug": "korser-premium-group-e-zukt-hoo",
                 "contents": [
                     {
-                        "title": "Join Premium WhatsApp Group!",
-                        "slug": "join-premium-whatsapp-group",
+                        "title": "Join Cycle-01 Premium WhatsApp Group!",
+                        "slug": "join-cycle-01-premium-whatsapp-group-1",
                         "type": "note",
                         "html": "<h3><a href=\"https://chat.whatsapp.com/DnDyFpGcG1YEe5YPGvLuuu?mode=ac_t\" rel=\"noopener noreferrer\" target=\"_blank\">\u2705 <strong>HSC-27</strong> \u09ac\u09cd\u09af\u09be\u099a\u09c7\u09b0 <em>Cycle-1</em> \u098f\u09b0 <strong>Premium WhatsApp</strong> \u0997\u09cd\u09b0\u09c1\u09aa\u09c7 \u09af\u09c1\u0995\u09cd\u09a4 \u09b9\u09a4\u09c7 \u098f\u0996\u09be\u09a8\u09c7 \u0995\u09cd\u09b2\u09bf\u0995 \u0995\u09b0\u09cb \ud83d\udc47</a></h3><h3><a href=\"https://chat.whatsapp.com/DnDyFpGcG1YEe5YPGvLuuu?mode=ac_t\" rel=\"noopener noreferrer\" target=\"_blank\">\ud83d\udd25 <strong><u>Premium WhatsApp Group Link</u></strong><u>!!</u> \ud83d\udd25</a></h3>"
                     }
@@ -520,8 +544,13 @@
         "img": "https://biology-adda.sgp1.digitaloceanspaces.com/courses/UR3htcrvz3cj7dWvaj5N0S9Pd0Q4w4xC.jpg",
         "sections": [
             {
+                "title": "\ud83c\udf81\ud83c\udf81 \u09a6\u09be\u09b0\u09c1\u09a3 \u09b8\u09ac \u0997\u09bf\u09ab\u099f \u09a4\u09cb\u09ae\u09be\u09b0 \u099c\u09a8\u09cd\u09af! \ud83e\udd70",
+                "slug": "darun-sb-gift-tomar-jnz-2",
+                "contents": []
+            },
+            {
                 "title": "HSC 2027 Biology Course Demo Classes",
-                "slug": "hsc-2027-biology-course-demo-classes-1",
+                "slug": "hsc-2027-biology-course-demo-classes",
                 "contents": [
                     {
                         "title": "Biology Foundation Class-01",
@@ -760,8 +789,8 @@
                         "title": "\u09b2\u09c7\u0995\u099a\u09be\u09b0-\u09e7\u09ec: \u09b8\u09c3\u099c\u09a8\u09b6\u09c0\u09b2\u09c7\u09b0 HOT \u099f\u09aa\u09bf\u0995 - DNA Replication \u098f\u09b0 \u0989\u09aa\u09b0 \u0986\u0997\u09c1\u09a8 \u0995\u09cd\u09b2\u09be\u09b8!",
                         "slug": "lekcar-16-srrijnsheeler-hot-tpik-dna-replication-er-upr-agun-klas-1",
                         "type": "video",
-                        "source": "youtube",
-                        "link": "https://youtu.be/mSSoN8Epkwc"
+                        "source": "tenbyte",
+                        "link": "https://player.vidinfra.com/stream/3f9eba17-410f-4cf7-8149-e5bfda107e4e/default/2240b04c-3baf-4fe4-a2d0-5ffec18187e8"
                     },
                     {
                         "title": "\u09b2\u09c7\u0995\u099a\u09be\u09b0-\u09e7\u09ed: \u09b8\u09c3\u099c\u09a8\u09b6\u09c0\u09b2\u09c7\u09b0 HOT \u099f\u09aa\u09bf\u0995 - Transcription \u098f\u09b0 A to Z!",
@@ -938,7 +967,14 @@
             {
                 "title": "\ud83d\udd34 Cycle-03 \u0995\u09cb\u09b0\u09cd\u09b8\u09c7\u09b0 Premium Group \u098f \u09af\u09c1\u0995\u09cd\u09a4 \u09b9\u0993!",
                 "slug": "cycle-03-korser-premium-group-e-zukt-hoo",
-                "contents": []
+                "contents": [
+                    {
+                        "title": "Join Cycle-03 Premium WhatsApp Group!",
+                        "slug": "join-cycle-03-premium-whatsapp-group-1",
+                        "type": "note",
+                        "html": "<h3><a href=\"https://chat.whatsapp.com/BVDuTk8Ea1QIgeVD6Z5Dnx?mode=wwt\" rel=\"noopener noreferrer\" target=\"_blank\">\u2705 <strong>HSC-27</strong> \u09ac\u09cd\u09af\u09be\u099a\u09c7\u09b0 <em>Cycle-3</em> \u098f\u09b0 <strong>Premium WhatsApp</strong> \u0997\u09cd\u09b0\u09c1\u09aa\u09c7 \u09af\u09c1\u0995\u09cd\u09a4 \u09b9\u09a4\u09c7 \u098f\u0996\u09be\u09a8\u09c7 \u0995\u09cd\u09b2\u09bf\u0995 \u0995\u09b0\u09cb \ud83d\udc47</a></h3><h3><a href=\"https://chat.whatsapp.com/BVDuTk8Ea1QIgeVD6Z5Dnx?mode=wwt\" rel=\"noopener noreferrer\" target=\"_blank\">\ud83d\udd25 <strong><u>Premium WhatsApp Group Link</u></strong><u>!!</u> \ud83d\udd25</a></h3><p><br></p>"
+                    }
+                ]
             },
             {
                 "title": "\u2705 Cycle-03 (Archive Classes)",
@@ -948,7 +984,14 @@
             {
                 "title": "\ud83d\udc51 \u0985\u09a7\u09cd\u09af\u09be\u09af\u09bc-\u09e6\u09e9: \u0995\u09cb\u09b7 \u09b0\u09b8\u09be\u09af\u09bc\u09a8",
                 "slug": "odhzaz-03-kosh-rsazn-1",
-                "contents": []
+                "contents": [
+                    {
+                        "title": "\u0995\u09cb\u09b7 \u09b0\u09b8\u09be\u09af\u09bc\u09a8 - \u09aa\u09c1\u09b0\u09cb \u099a\u09cd\u09af\u09be\u09aa\u09cd\u099f\u09be\u09b0\u09c7\u09b0 \u09a6\u09be\u0997\u09be\u09a8\u09cb \u09ac\u0987\u09af\u09bc\u09c7\u09b0 PDF",
+                        "slug": "kosh-rsazn-puro-czaptarer-dagano-bizer-pdf-1",
+                        "type": "link",
+                        "link": "https://drive.google.com/file/d/14su9peAjqV5gHevIaQOtUx5MVwpm5pt0/view?usp=drivesdk"
+                    }
+                ]
             },
             {
                 "title": "\ud83d\udc51 \u0985\u09a7\u09cd\u09af\u09be\u09af\u09bc-\u09e6\u09eb: \u09b6\u09c8\u09ac\u09be\u09b2 \u0993 \u099b\u09a4\u09cd\u09b0\u09be\u0995",
