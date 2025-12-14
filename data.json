@@ -2556,44 +2556,39 @@
                     {
                         "title": "\u099f\u09bf\u09b8\u09cd\u09af\u09c1 \u0993 \u099f\u09bf\u09b8\u09cd\u09af\u09c1\u09a4\u09a8\u09cd\u09a4\u09cd\u09b0 : \u09b2\u09c7\u0995\u099a\u09be\u09b0-\u09e6\u09e7",
                         "slug": "tiszu-oo-tiszutntr-lekcar-01",
-                        "type": "video",
-                        "source": "youtube",
-                        "link": "https://youtu.be/ifOZ3F_VRRU?si=qbDZZQ786XCb4e1S"
+                        "type": "link",
+                        "link": "https://youtu.be/emTgJJCXZ0g"
                     },
                     {
                         "title": "\u099f\u09bf\u09b8\u09cd\u09af\u09c1 \u0993 \u099f\u09bf\u09b8\u09cd\u09af\u09c1\u09a4\u09a8\u09cd\u09a4\u09cd\u09b0 : \u09b2\u09c7\u0995\u099a\u09be\u09b0-\u09e6\u09e8",
                         "slug": "tiszu-oo-tiszutntr-lekcar-02",
-                        "type": "video",
-                        "source": "youtube",
-                        "link": "https://youtu.be/br8kOMZVtPg?si=clXoz5RKCea03B_b"
+                        "type": "link",
+                        "link": "https://youtu.be/jGHlki4V9Jw"
                     },
                     {
                         "title": "\u099f\u09bf\u09b8\u09cd\u09af\u09c1 \u0993 \u099f\u09bf\u09b8\u09cd\u09af\u09c1\u09a4\u09a8\u09cd\u09a4\u09cd\u09b0 : \u09b2\u09c7\u0995\u099a\u09be\u09b0-\u09e6\u09e9",
                         "slug": "tiszu-oo-tiszutntr-lekcar-03",
-                        "type": "video",
-                        "source": "youtube",
-                        "link": "https://youtu.be/Hp_YKiyZCUQ?si=RIPipuvn4RjJwPry"
+                        "type": "link",
+                        "link": "https://youtu.be/Tp__anwzpYE"
                     },
                     {
                         "title": "\u099f\u09bf\u09b8\u09cd\u09af\u09c1 \u0993 \u099f\u09bf\u09b8\u09cd\u09af\u09c1\u09a4\u09a8\u09cd\u09a4\u09cd\u09b0 : \u09b2\u09c7\u0995\u099a\u09be\u09b0-\u09e6\u09ea",
                         "slug": "tiszu-oo-tiszutntr-lekcar-04",
                         "type": "video",
-                        "source": "youtube",
-                        "link": "https://youtu.be/uwMKdL9yt-w?si=E30meAj5GpTAryU9"
+                        "source": "tenbyte",
+                        "link": "https://player.vidinfra.com/stream/3f9eba17-410f-4cf7-8149-e5bfda107e4e/default/bd9afe3e-ed79-49df-93ca-3ed7b6ceec15"
                     },
                     {
                         "title": "\u099f\u09bf\u09b8\u09cd\u09af\u09c1 \u0993 \u099f\u09bf\u09b8\u09cd\u09af\u09c1\u09a4\u09a8\u09cd\u09a4\u09cd\u09b0 : \u09b2\u09c7\u0995\u099a\u09be\u09b0-\u09e6\u09eb",
                         "slug": "tiszu-oo-tiszutntr-lekcar-05",
-                        "type": "video",
-                        "source": "youtube",
-                        "link": "https://youtu.be/Udux1rIlxEQ?si=Kc_7yAFW2Q5ThF6d"
+                        "type": "link",
+                        "link": "https://youtu.be/-LybmFMajB8"
                     },
                     {
                         "title": "\u099f\u09bf\u09b8\u09cd\u09af\u09c1 \u0993 \u099f\u09bf\u09b8\u09cd\u09af\u09c1\u09a4\u09a8\u09cd\u09a4\u09cd\u09b0 : \u09b2\u09c7\u0995\u099a\u09be\u09b0-\u09e6\u09ec",
                         "slug": "tiszu-oo-tiszutntr-lekcar-06",
-                        "type": "video",
-                        "source": "youtube",
-                        "link": "https://youtu.be/d829M--plG4?si=eOaoyJM6kwJlItoa"
+                        "type": "link",
+                        "link": "https://youtu.be/JNUnVE-MGfs"
                     }
                 ]
             },
