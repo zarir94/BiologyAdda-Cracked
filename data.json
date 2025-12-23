@@ -3785,17 +3785,6 @@
                 ]
             },
             {
-                "title": "\ud83d\udc51 \u0985\u09a7\u09cd\u09af\u09be\u09af\u09bc-\u09e7\u09e7: \u099c\u09c0\u09ac\u09c7\u09b0 \u09aa\u09cd\u09b0\u099c\u09a8\u09a8",
-                "slug": "odhzaz-11-jeeber-prjnn",
-                "contents": [
-                    {
-                        "title": "\u0985\u09a7\u09cd\u09af\u09be\u09af\u09bc-\u09e7\u09e7: \u099c\u09c0\u09ac\u09c7\u09b0 \u09aa\u09cd\u09b0\u099c\u09a8\u09a8 Super MCQ Test!",
-                        "slug": "odhzaz-11-jeeber-prjnn-super-mcq-test",
-                        "type": "exam"
-                    }
-                ]
-            },
-            {
                 "title": "\ud83d\udc51 \u0985\u09a7\u09cd\u09af\u09be\u09af\u09bc-\u09e7\u09e8: \u099c\u09c0\u09ac\u09c7\u09b0 \u09ac\u0982\u09b6\u0997\u09a4\u09bf \u0993 \u099c\u09c8\u09ac \u0985\u09ad\u09bf\u09ac\u09cd\u09af\u0995\u09cd\u09a4\u09bf",
                 "slug": "odhzaz-12-jeeber-bngsgti-oo-joib-ovibzkti",
                 "contents": [
@@ -4450,6 +4439,11 @@
                 "title": "\ud83d\udc51 \u0985\u09a7\u09cd\u09af\u09be\u09af\u09bc-\u09e6\u09ea: \u099c\u09c0\u09ac\u09a8\u09c0\u09b6\u0995\u09cd\u09a4\u09bf",
                 "slug": "odhzaz-04-jeebneeskti",
                 "contents": []
+            },
+            {
+                "title": "\ud83d\udc51 \u0985\u09a7\u09cd\u09af\u09be\u09af\u09bc-\u09e7\u09e7: \u099c\u09c0\u09ac\u09c7\u09b0 \u09aa\u09cd\u09b0\u099c\u09a8\u09a8",
+                "slug": "odhzaz-11-jeeber-prjnn",
+                "contents": []
             }
         ],
         "category": {
@@ -4653,21 +4647,6 @@
                 ]
             },
             {
-                "title": "\ud83d\udc51 \u0985\u09a7\u09cd\u09af\u09be\u09af\u09bc-\u09e6\u09ef: \u09a6\u09c3\u09a2\u09bc\u09a4\u09be \u09aa\u09cd\u09b0\u09a6\u09be\u09a8 \u0993 \u099a\u09b2\u09a8",
-                "slug": "odhzaz-09-drridhta-prdan-oo-cln",
-                "contents": []
-            },
-            {
-                "title": "\ud83d\udc51 \u0985\u09a7\u09cd\u09af\u09be\u09af\u09bc-\u09e7\u09e6: \u09b8\u09ae\u09a8\u09cd\u09ac\u09af\u09bc",
-                "slug": "odhzaz-10-smnwz",
-                "contents": []
-            },
-            {
-                "title": "\ud83d\udc51 \u0985\u09a7\u09cd\u09af\u09be\u09af\u09bc-\u09e7\u09e7: \u099c\u09c0\u09ac\u09c7\u09b0 \u09aa\u09cd\u09b0\u099c\u09a8\u09a8",
-                "slug": "odhzaz-11-jeeber-prjnn-1",
-                "contents": []
-            },
-            {
                 "title": "\ud83d\udc51 \u0985\u09a7\u09cd\u09af\u09be\u09af\u09bc-\u09e7\u09e8: \u099c\u09c0\u09ac\u09c7\u09b0 \u09ac\u0982\u09b6\u0997\u09a4\u09bf \u0993 \u099c\u09c8\u09ac \u0985\u09ad\u09bf\u09ac\u09cd\u09af\u0995\u09cd\u09a4\u09bf",
                 "slug": "odhzaz-12-jeeber-bngsgti-oo-joib-ovibzkti-1",
                 "contents": [
@@ -4795,174 +4774,6 @@
                 "title": "\ud83d\udc8e SSC 2025 Premium Course (Bonus Access! \ud83d\udc8e)",
                 "slug": "ssc-2025-premium-course-bonus-access-1",
                 "contents": [
-                    {
-                        "title": "\u0985\u09a7\u09cd\u09af\u09be\u09af\u09bc-\u09e6\u09ef: \u09a6\u09c3\u09a2\u09bc\u09a4\u09be \u09aa\u09cd\u09b0\u09a6\u09be\u09a8 \u0993 \u099a\u09b2\u09a8 - \u09b2\u09c7\u0995\u099a\u09be\u09b0 \u09e6\u09e7",
-                        "slug": "odhzaz-09-drridhta-prdan-oo-cln-lekcar-01",
-                        "type": "video",
-                        "source": "youtube",
-                        "link": "https://youtu.be/iJJ0Z_JdGrI?si=XN0EwoOeq7oyZ7k1"
-                    },
-                    {
-                        "title": "\u0985\u09a7\u09cd\u09af\u09be\u09af\u09bc-\u09e6\u09ef: \u09a6\u09c3\u09a2\u09bc\u09a4\u09be \u09aa\u09cd\u09b0\u09a6\u09be\u09a8 \u0993 \u099a\u09b2\u09a8 - \u09b2\u09c7\u0995\u099a\u09be\u09b0 \u09e6\u09e8",
-                        "slug": "odhzaz-09-drridhta-prdan-oo-cln-lekcar-02",
-                        "type": "video",
-                        "source": "youtube",
-                        "link": "https://youtu.be/kDs5b-uH80U?si=XmtjOQpKRHyss4DD"
-                    },
-                    {
-                        "title": "\u0985\u09a7\u09cd\u09af\u09be\u09af\u09bc-\u09e6\u09ef: \u09a6\u09c3\u09a2\u09bc\u09a4\u09be \u09aa\u09cd\u09b0\u09a6\u09be\u09a8 \u0993 \u099a\u09b2\u09a8 - \u09b2\u09c7\u0995\u099a\u09be\u09b0 \u09e6\u09e9",
-                        "slug": "odhzaz-09-drridhta-prdan-oo-cln-lekcar-03",
-                        "type": "video",
-                        "source": "youtube",
-                        "link": "https://youtu.be/iHvI6NyIaGc?si=fHFVqnfRfL0GGV3q"
-                    },
-                    {
-                        "title": "\u0985\u09a7\u09cd\u09af\u09be\u09af\u09bc-\u09e6\u09ef: \u09a6\u09c3\u09a2\u09bc\u09a4\u09be \u09aa\u09cd\u09b0\u09a6\u09be\u09a8 \u0993 \u099a\u09b2\u09a8 - \u09b2\u09c7\u0995\u099a\u09be\u09b0 \u09e6\u09ea",
-                        "slug": "odhzaz-09-drridhta-prdan-oo-cln-lekcar-04",
-                        "type": "video",
-                        "source": "youtube",
-                        "link": "https://youtu.be/AEyKAKH5hac?si=VSSNe_k1p2deXe-K"
-                    },
-                    {
-                        "title": "\u0985\u09a7\u09cd\u09af\u09be\u09af\u09bc-\u09e6\u09ef: \u09a6\u09c3\u09a2\u09bc\u09a4\u09be \u09aa\u09cd\u09b0\u09a6\u09be\u09a8 \u0993 \u099a\u09b2\u09a8 - \u09b8\u09c1\u09aa\u09be\u09b0 \u09b8\u09be\u099c\u09c7\u09b6\u09a8!",
-                        "slug": "odhzaz-09-drridhta-prdan-oo-cln-supar-sajesn",
-                        "type": "video",
-                        "source": "youtube",
-                        "link": "https://youtu.be/4NFuVg4gXxg?si=V4f3UZJ_MdThndaU"
-                    },
-                    {
-                        "title": "\u0985\u09a7\u09cd\u09af\u09be\u09af\u09bc-\u09e7\u09e6: \u09b8\u09ae\u09a8\u09cd\u09ac\u09af\u09bc - \u09b2\u09c7\u0995\u099a\u09be\u09b0 \u09e6\u09e7",
-                        "slug": "odhzaz-10-smnwz-lekcar-01",
-                        "type": "video",
-                        "source": "youtube",
-                        "link": "https://youtu.be/uDWXeYn1TeI?si=6K3CwpWYFS5u2MZG"
-                    },
-                    {
-                        "title": "\u0985\u09a7\u09cd\u09af\u09be\u09af\u09bc-\u09e7\u09e6: \u09b8\u09ae\u09a8\u09cd\u09ac\u09af\u09bc - \u09b2\u09c7\u0995\u099a\u09be\u09b0 \u09e6\u09e8",
-                        "slug": "odhzaz-10-smnwz-lekcar-02",
-                        "type": "video",
-                        "source": "youtube",
-                        "link": "https://youtu.be/7fZ8YpBErvs?si=sZbow9KC-Nc3g_ra"
-                    },
-                    {
-                        "title": "\u0985\u09a7\u09cd\u09af\u09be\u09af\u09bc-\u09e7\u09e6: \u09b8\u09ae\u09a8\u09cd\u09ac\u09af\u09bc - \u09b2\u09c7\u0995\u099a\u09be\u09b0 \u09e6\u09e9",
-                        "slug": "odhzaz-10-smnwz-lekcar-03",
-                        "type": "video",
-                        "source": "youtube",
-                        "link": "https://youtu.be/qiIz-Cz5Tmk?si=TMiPj_IkjPJ8oPxL"
-                    },
-                    {
-                        "title": "\u0985\u09a7\u09cd\u09af\u09be\u09af\u09bc-\u09e7\u09e6: \u09b8\u09ae\u09a8\u09cd\u09ac\u09af\u09bc - \u09b2\u09c7\u0995\u099a\u09be\u09b0 \u09e6\u09ea",
-                        "slug": "odhzaz-10-smnwz-lekcar-04",
-                        "type": "video",
-                        "source": "youtube",
-                        "link": "https://youtu.be/7Glc-a88ktk?si=GWMMUWT8792hvf5A"
-                    },
-                    {
-                        "title": "\u0985\u09a7\u09cd\u09af\u09be\u09af\u09bc-\u09e7\u09e6: \u09b8\u09ae\u09a8\u09cd\u09ac\u09af\u09bc - \u09b2\u09c7\u0995\u099a\u09be\u09b0 \u09e6\u09eb",
-                        "slug": "odhzaz-10-smnwz-lekcar-05",
-                        "type": "video",
-                        "source": "youtube",
-                        "link": "https://youtu.be/s0V5aqzlfsk?si=sRQaUX4gkPOiarWh"
-                    },
-                    {
-                        "title": "\u0985\u09a7\u09cd\u09af\u09be\u09af\u09bc-\u09e7\u09e6: \u09b8\u09ae\u09a8\u09cd\u09ac\u09af\u09bc - \u09b2\u09c7\u0995\u099a\u09be\u09b0 \u09e6\u09ec",
-                        "slug": "odhzaz-10-smnwz-lekcar-06",
-                        "type": "video",
-                        "source": "youtube",
-                        "link": "https://youtu.be/ehKb9cCoR4A?si=PGYPVw_y6MycrpYe"
-                    },
-                    {
-                        "title": "\u0985\u09a7\u09cd\u09af\u09be\u09af\u09bc-\u09e7\u09e6: \u09b8\u09ae\u09a8\u09cd\u09ac\u09af\u09bc - Shorts 01",
-                        "slug": "odhzaz-10-smnwz-shorts-01",
-                        "type": "video",
-                        "source": "youtube",
-                        "link": "https://youtu.be/_02KsNHpf1o?si=zeZ0Qb52xiqU9pEE"
-                    },
-                    {
-                        "title": "\u0985\u09a7\u09cd\u09af\u09be\u09af\u09bc-\u09e7\u09e6: \u09b8\u09ae\u09a8\u09cd\u09ac\u09af\u09bc - Shorts 02",
-                        "slug": "odhzaz-10-smnwz-shorts-02",
-                        "type": "video",
-                        "source": "youtube",
-                        "link": "https://youtu.be/YVmW35fYPCI?si=PSU2mEarzvfZJ30X"
-                    },
-                    {
-                        "title": "\u0985\u09a7\u09cd\u09af\u09be\u09af\u09bc-\u09e7\u09e6: \u09b8\u09ae\u09a8\u09cd\u09ac\u09af\u09bc - \u09b8\u09c1\u09aa\u09be\u09b0 \u09b8\u09be\u099c\u09c7\u09b6\u09a8!",
-                        "slug": "odhzaz-10-smnwz-supar-sajesn",
-                        "type": "video",
-                        "source": "youtube",
-                        "link": "https://youtu.be/l5f40XBCF7k?si=ansR_uEB5RMIWKK6"
-                    },
-                    {
-                        "title": "\u0985\u09a7\u09cd\u09af\u09be\u09af\u09bc-\u09e7\u09e7: \u099c\u09c0\u09ac\u09c7\u09b0 \u09aa\u09cd\u09b0\u099c\u09a8\u09a8 - \u09b2\u09c7\u0995\u099a\u09be\u09b0 \u09e6\u09e7",
-                        "slug": "odhzaz-11-jeeber-prjnn-lekcar-01",
-                        "type": "video",
-                        "source": "youtube",
-                        "link": "https://youtu.be/42cArLEh0fM?si=nrrF4W83IFGScSiu"
-                    },
-                    {
-                        "title": "\u0985\u09a7\u09cd\u09af\u09be\u09af\u09bc-\u09e7\u09e7: \u099c\u09c0\u09ac\u09c7\u09b0 \u09aa\u09cd\u09b0\u099c\u09a8\u09a8 - \u09b2\u09c7\u0995\u099a\u09be\u09b0 \u09e6\u09e8",
-                        "slug": "odhzaz-11-jeeber-prjnn-lekcar-02",
-                        "type": "video",
-                        "source": "youtube",
-                        "link": "https://youtu.be/FPoXFHq_k-8?si=M7LVf2tFohDlp8rC"
-                    },
-                    {
-                        "title": "\u0985\u09a7\u09cd\u09af\u09be\u09af\u09bc-\u09e7\u09e7: \u099c\u09c0\u09ac\u09c7\u09b0 \u09aa\u09cd\u09b0\u099c\u09a8\u09a8 - \u09b2\u09c7\u0995\u099a\u09be\u09b0 \u09e6\u09e9",
-                        "slug": "odhzaz-11-jeeber-prjnn-lekcar-03",
-                        "type": "video",
-                        "source": "youtube",
-                        "link": "https://youtu.be/GDETK21fCe0?si=0pLiUXYMkqMZ4gGl"
-                    },
-                    {
-                        "title": "\u0985\u09a7\u09cd\u09af\u09be\u09af\u09bc-\u09e7\u09e7: \u099c\u09c0\u09ac\u09c7\u09b0 \u09aa\u09cd\u09b0\u099c\u09a8\u09a8 - \u09b2\u09c7\u0995\u099a\u09be\u09b0 \u09e6\u09ea",
-                        "slug": "odhzaz-11-jeeber-prjnn-lekcar-04",
-                        "type": "video",
-                        "source": "youtube",
-                        "link": "https://youtu.be/STJitnbpuQc?si=mUtiiRqAntY9xnz2"
-                    },
-                    {
-                        "title": "\u0985\u09a7\u09cd\u09af\u09be\u09af\u09bc-\u09e7\u09e7: \u099c\u09c0\u09ac\u09c7\u09b0 \u09aa\u09cd\u09b0\u099c\u09a8\u09a8 - \u09b2\u09c7\u0995\u099a\u09be\u09b0 \u09e6\u09eb",
-                        "slug": "odhzaz-11-jeeber-prjnn-lekcar-05",
-                        "type": "video",
-                        "source": "youtube",
-                        "link": "https://youtu.be/_vCdKxoBWEQ?si=qXcaMhDNVkvR4P-e"
-                    },
-                    {
-                        "title": "\u0985\u09a7\u09cd\u09af\u09be\u09af\u09bc-\u09e7\u09e7: \u099c\u09c0\u09ac\u09c7\u09b0 \u09aa\u09cd\u09b0\u099c\u09a8\u09a8 - \u09b2\u09c7\u0995\u099a\u09be\u09b0 \u09e6\u09ec",
-                        "slug": "odhzaz-11-jeeber-prjnn-lekcar-06",
-                        "type": "video",
-                        "source": "youtube",
-                        "link": "https://youtu.be/AM1GVStSDlQ?si=g2zZXlYaCGKZNg_2"
-                    },
-                    {
-                        "title": "\u0985\u09a7\u09cd\u09af\u09be\u09af\u09bc-\u09e7\u09e7: \u099c\u09c0\u09ac\u09c7\u09b0 \u09aa\u09cd\u09b0\u099c\u09a8\u09a8 - \u09b2\u09c7\u0995\u099a\u09be\u09b0 \u09e6\u09ed",
-                        "slug": "odhzaz-11-jeeber-prjnn-lekcar-07",
-                        "type": "video",
-                        "source": "youtube",
-                        "link": "https://youtu.be/QB-FHWyjrfA?si=SIeoB84KGnJ8ISK1"
-                    },
-                    {
-                        "title": "\u0985\u09a7\u09cd\u09af\u09be\u09af\u09bc-\u09e7\u09e7: \u099c\u09c0\u09ac\u09c7\u09b0 \u09aa\u09cd\u09b0\u099c\u09a8\u09a8 - \u09b2\u09c7\u0995\u099a\u09be\u09b0 \u09e6\u09ee",
-                        "slug": "odhzaz-11-jeeber-prjnn-lekcar-08",
-                        "type": "video",
-                        "source": "youtube",
-                        "link": "https://youtu.be/AcRNZBQ5JmA?si=YV_9XumlZ5DIqpz_"
-                    },
-                    {
-                        "title": "\u0985\u09a7\u09cd\u09af\u09be\u09af\u09bc-\u09e7\u09e7: \u099c\u09c0\u09ac\u09c7\u09b0 \u09aa\u09cd\u09b0\u099c\u09a8\u09a8 - \u09b2\u09c7\u0995\u099a\u09be\u09b0 \u09e6\u09ef",
-                        "slug": "odhzaz-11-jeeber-prjnn-lekcar-09",
-                        "type": "video",
-                        "source": "youtube",
-                        "link": "https://youtu.be/ctxYUOUiKdk?si=QL7S2v-zljMpYGuW"
-                    },
-                    {
-                        "title": "\u0985\u09a7\u09cd\u09af\u09be\u09af\u09bc-\u09e7\u09e7: \u099c\u09c0\u09ac\u09c7\u09b0 \u09aa\u09cd\u09b0\u099c\u09a8\u09a8 - \u09b2\u09c7\u0995\u099a\u09be\u09b0 \u09e7\u09e6",
-                        "slug": "odhzaz-11-jeeber-prjnn-lekcar-10",
-                        "type": "video",
-                        "source": "youtube",
-                        "link": "https://youtu.be/HCYwIBJmcHk?si=YcFFa3psvhKurDPg"
-                    },
                     {
                         "title": "\u0985\u09a7\u09cd\u09af\u09be\u09af\u09bc-\u09e7\u09e7: \u099c\u09c0\u09ac\u09c7\u09b0 \u09aa\u09cd\u09b0\u099c\u09a8\u09a8 - \u09b8\u09c1\u09aa\u09be\u09b0 \u09b8\u09be\u099c\u09c7\u09b6\u09a8!",
                         "slug": "odhzaz-11-jeeber-prjnn-supar-sajesn",
@@ -5213,6 +5024,21 @@
             {
                 "title": "\ud83d\udc51 \u0985\u09a7\u09cd\u09af\u09be\u09af\u09bc-\u09e6\u09ee: \u09b0\u09c7\u099a\u09a8 \u09aa\u09cd\u09b0\u0995\u09cd\u09b0\u09bf\u09af\u09bc\u09be",
                 "slug": "odhzaz-08-recn-prkriza",
+                "contents": []
+            },
+            {
+                "title": "\ud83d\udc51 \u0985\u09a7\u09cd\u09af\u09be\u09af\u09bc-\u09e6\u09ef: \u09a6\u09c3\u09a2\u09bc\u09a4\u09be \u09aa\u09cd\u09b0\u09a6\u09be\u09a8 \u0993 \u099a\u09b2\u09a8",
+                "slug": "odhzaz-09-drridhta-prdan-oo-cln",
+                "contents": []
+            },
+            {
+                "title": "\ud83d\udc51 \u0985\u09a7\u09cd\u09af\u09be\u09af\u09bc-\u09e7\u09e6: \u09b8\u09ae\u09a8\u09cd\u09ac\u09af\u09bc",
+                "slug": "odhzaz-10-smnwz-1",
+                "contents": []
+            },
+            {
+                "title": "\ud83d\udc51 \u0985\u09a7\u09cd\u09af\u09be\u09af\u09bc-\u09e7\u09e7: \u099c\u09c0\u09ac\u09c7\u09b0 \u09aa\u09cd\u09b0\u099c\u09a8\u09a8",
+                "slug": "odhzaz-11-jeeber-prjnn-1",
                 "contents": []
             }
         ],
