@@ -3818,6 +3818,11 @@
                 "title": "\ud83d\udc51 \u0985\u09a7\u09cd\u09af\u09be\u09af\u09bc-\u09e7\u09e9: \u099c\u09c0\u09ac\u09c7\u09b0 \u09aa\u09b0\u09bf\u09ac\u09c7\u09b6",
                 "slug": "odhzaz-13-jeeber-pribes",
                 "contents": []
+            },
+            {
+                "title": "\ud83d\udc8e SSC 2025 Premium Course (Bonus Classes! \ud83d\udc8e)",
+                "slug": "ssc-2025-premium-course-bonus-classes",
+                "contents": []
             }
         ],
         "category": {
@@ -4021,47 +4026,6 @@
                 ]
             },
             {
-                "title": "\ud83d\udc8e SSC 2025 Premium Course (Bonus Access! \ud83d\udc8e)",
-                "slug": "ssc-2025-premium-course-bonus-access-1",
-                "contents": [
-                    {
-                        "title": "\u0985\u09a7\u09cd\u09af\u09be\u09af\u09bc-\u09e7\u09ea: \u099c\u09c0\u09ac \u09aa\u09cd\u09b0\u09af\u09c1\u0995\u09cd\u09a4\u09bf - \u09b2\u09c7\u0995\u099a\u09be\u09b0 \u09e6\u09e7",
-                        "slug": "odhzaz-14-jeeb-przukti-lekcar-01",
-                        "type": "video",
-                        "source": "youtube",
-                        "link": "https://youtu.be/QXHwUC_fZcg?si=sgCMR3bhXGsPx3nE"
-                    },
-                    {
-                        "title": "\u0985\u09a7\u09cd\u09af\u09be\u09af\u09bc-\u09e7\u09ea: \u099c\u09c0\u09ac \u09aa\u09cd\u09b0\u09af\u09c1\u0995\u09cd\u09a4\u09bf - \u09b2\u09c7\u0995\u099a\u09be\u09b0 \u09e6\u09e8",
-                        "slug": "odhzaz-14-jeeb-przukti-lekcar-02",
-                        "type": "video",
-                        "source": "youtube",
-                        "link": "https://youtu.be/BnFRnN7xmeQ?si=Hb9rani6mNHgcpPE"
-                    },
-                    {
-                        "title": "\u0985\u09a7\u09cd\u09af\u09be\u09af\u09bc-\u09e7\u09ea: \u099c\u09c0\u09ac \u09aa\u09cd\u09b0\u09af\u09c1\u0995\u09cd\u09a4\u09bf - \u09b2\u09c7\u0995\u099a\u09be\u09b0 \u09e6\u09e9",
-                        "slug": "odhzaz-14-jeeb-przukti-lekcar-03",
-                        "type": "video",
-                        "source": "youtube",
-                        "link": "https://youtu.be/TDD-Ad4ji0E?si=RNLg225DBvZmDXTz"
-                    },
-                    {
-                        "title": "\u0985\u09a7\u09cd\u09af\u09be\u09af\u09bc-\u09e7\u09ea: \u099c\u09c0\u09ac \u09aa\u09cd\u09b0\u09af\u09c1\u0995\u09cd\u09a4\u09bf - \u09b2\u09c7\u0995\u099a\u09be\u09b0 \u09e6\u09ea",
-                        "slug": "odhzaz-14-jeeb-przukti-lekcar-04",
-                        "type": "video",
-                        "source": "youtube",
-                        "link": "https://youtu.be/0txCoMLhfkk?si=VqIxkFF9fySENHpj"
-                    },
-                    {
-                        "title": "\u0985\u09a7\u09cd\u09af\u09be\u09af\u09bc-\u09e7\u09ea: \u099c\u09c0\u09ac \u09aa\u09cd\u09b0\u09af\u09c1\u0995\u09cd\u09a4\u09bf - \u09b8\u09c1\u09aa\u09be\u09b0 \u09b8\u09be\u099c\u09c7\u09b6\u09a8!",
-                        "slug": "odhzaz-14-jeeb-przukti-supar-sajesn",
-                        "type": "video",
-                        "source": "youtube",
-                        "link": "https://youtu.be/hKDI_shrhfI?si=u4xEXNf0p8WNojO0"
-                    }
-                ]
-            },
-            {
                 "title": "\ud83d\udc51 \u0985\u09a7\u09cd\u09af\u09be\u09af\u09bc-\u09e6\u09e7: \u099c\u09c0\u09ac\u09a8 \u09aa\u09be\u09a0",
                 "slug": "odhzaz-01-jeebn-path-2",
                 "contents": []
@@ -4124,6 +4088,11 @@
             {
                 "title": "\ud83d\udc51 \u0985\u09a7\u09cd\u09af\u09be\u09af\u09bc-\u09e7\u09e9: \u099c\u09c0\u09ac\u09c7\u09b0 \u09aa\u09b0\u09bf\u09ac\u09c7\u09b6",
                 "slug": "odhzaz-13-jeeber-pribes-2",
+                "contents": []
+            },
+            {
+                "title": "\ud83d\udc51 \u0985\u09a7\u09cd\u09af\u09be\u09af\u09bc-\u09e7\u09ea: \u099c\u09c0\u09ac \u09aa\u09cd\u09b0\u09af\u09c1\u0995\u09cd\u09a4\u09bf",
+                "slug": "odhzaz-14-jeeb-przukti-1",
                 "contents": []
             }
         ],
